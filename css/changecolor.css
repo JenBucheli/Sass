@@ -1,0 +1,13 @@
+#body:target {
+  color: #ff0000;
+}
+#body:target h1,
+#body:target h2,
+#body:target h6 {
+  color: #a10404;
+}
+#body:target code {
+  color: #5f0404;
+}
+
+/*# sourceMappingURL=changecolor.css.map */
